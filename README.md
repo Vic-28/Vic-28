@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Bienvenid@ al perfil de Víctor  <img title="" src="file:///C:/Users/Victor/Downloads/perfil_linkedin.jpg" alt="" width="128" data-align="center">
+## Bienvenid@ al perfil de Víctor
 
 ---
 
@@ -9,6 +9,8 @@
 [![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:delgadobatistavictor@gmail.com)
 
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/victordelgadobatista/)
+
+[![Github]()](https://github.com/Vic-28)
 
 ---
 
