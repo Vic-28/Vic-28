@@ -16,4 +16,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-28&layout=compact)](https://github.com/Vic-28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-28&layout=compact)](https://github.com/Vic-28/github-readme-stats)  ![Vic-28's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Vic-28&locale=es)
