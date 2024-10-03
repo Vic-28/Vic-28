@@ -17,4 +17,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-28&layout=compact)](https://github.com/Vic-28/github-readme-stats)
-```
