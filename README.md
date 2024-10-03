@@ -8,9 +8,7 @@
 
 [![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:delgadobatistavictor@gmail.com)
 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" title="" alt="Linkedin" width="50">]([Víctor Delgado Batista - San Miguel de Abona, Canarias, España | Perfil profesional | LinkedIn](https://www.linkedin.com/in/victordelgadobatista/))
-
-[<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" title="" alt="Github" width="50">]([Vic-28 (Víctor Delgado Batista) · GitHub](https://github.com/Vic-28))
+[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/victordelgadobatista/)
 
 ---
 
