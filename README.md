@@ -1,6 +1,5 @@
 ## Bienvenid@ al perfil de Víctor
 
----
 
 ### Contacta conmigo:
 
