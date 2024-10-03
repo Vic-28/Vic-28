@@ -4,11 +4,7 @@
 
 ### Contacta conmigo:
 
-[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:delgadobatistavictor@gmail.com)
-
-[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/victordelgadobatista/)
-
-[<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" title="" alt="Github" width="65">](https://github.com/Vic-28)
+[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:delgadobatistavictor@gmail.com) [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/victordelgadobatista/) [<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" title="" alt="Github" width="65">](https://github.com/Vic-28)
 
 ---
 
