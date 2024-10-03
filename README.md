@@ -10,7 +10,7 @@
 
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/victordelgadobatista/)
 
-[![Github]()](https://github.com/Vic-28)
+[<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" title="" alt="Github" width="65">](https://github.com/Vic-28)
 
 ---
 
